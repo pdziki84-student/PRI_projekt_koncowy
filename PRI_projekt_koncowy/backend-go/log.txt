@@ -1,0 +1,16 @@
+2022/02/06 16:58:16 Created task: {ObjectID("000000000000000000000000") abc}
+2022/02/06 16:58:16 GetTasks done
+2022/02/06 16:58:23 Created task: {ObjectID("000000000000000000000000") xyz}
+2022/02/06 16:58:24 GetTasks done
+2022/02/06 16:58:31 Created task: {ObjectID("000000000000000000000000") zadanie}
+2022/02/06 16:58:32 GetTasks done
+2022/02/06 16:58:34 Deleted task: ObjectID("61fff0182109091a3c8d6b18")
+2022/02/06 16:58:34 GetTasks done
+2022/02/06 16:58:36 Deleted task: ObjectID("61fff0272109091a3c8d6b1a")
+2022/02/06 16:58:36 GetTasks done
+2022/02/06 16:58:38 Deleted task: ObjectID("61fff01f2109091a3c8d6b19")
+2022/02/06 16:58:38 GetTasks done
+2022/02/06 16:11:54 Created task: {ObjectID("000000000000000000000000") abc}
+2022/02/06 16:11:54 GetTasks done
+2022/02/06 16:12:00 Created task: {ObjectID("000000000000000000000000") xadsasdfasdfasdfasdf}
+2022/02/06 16:12:00 GetTasks done
